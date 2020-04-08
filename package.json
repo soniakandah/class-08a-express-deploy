@@ -1,0 +1,18 @@
+{
+    "name": "in-class-express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "start-dev": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@code-fellows/supergoose": "^1.0.2",
+        "express": "^4.17.1",
+        "express-swagger-generator": "^1.1.17"
+    }
+}

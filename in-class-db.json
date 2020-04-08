@@ -1,0 +1,36 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "name": "apple",
+            "count": 20
+        },
+        {
+            "id": 2,
+            "name": "pear",
+            "count": 14
+        },
+        {
+            "name": "orange",
+            "count": 9,
+            "id": 3
+        }
+    ],
+    "vegetables": [
+        {
+            "id": 1,
+            "name": "rutabaga",
+            "count": 13
+        },
+        {
+            "id": 2,
+            "name": "spinach",
+            "count": 40
+        },
+        {
+            "name": "broccoli",
+            "count": 5,
+            "id": 3
+        }
+    ]
+}
